@@ -1,0 +1,17 @@
+/* uComment CSS Styles */
+
+/* ** Form Validation ** */
+#respond .ucomment-form-error {
+    text-align:center;
+    color:#900;
+    font-weight:bold;
+}
+
+#respond input.ucomment-field-error, #respond textarea.ucomment-field-error { 
+    border-color:#900;
+}
+
+#respond .ucomment-field-message {
+    color:#900;
+}
+

@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S9-egoi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-17 16:24+0200\n"
+"PO-Revision-Date: 2012-04-17 16:24+0200\n"
+"Last-Translator: Daniel <daniel@feedchannel.net>\n"
+"Language-Team: Sector 9 <info@sector9.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../isd-comment-features.php:176
+msgid "General"
+msgstr ""
+
+#: ../isd-comment-features.php:176
+#, fuzzy
+msgid "CSS"
+msgstr "Operation successfull"
+
+#: ../isd-comment-features.php:196
+msgid "Options updated."
+msgstr ""
+
+#: ../isd-comment-features.php:203
+msgid "All options were erased."
+msgstr ""
+
+#: ../isd-comment-features.php:227
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: ../isd-comment-features.php:238
+msgid "General options"
+msgstr ""
+
+#: ../isd-comment-features.php:241
+msgid "Clone comment form"
+msgstr ""
+
+#: ../isd-comment-features.php:245
+msgid "If checked, the comment form will be cloned instead of moved."
+msgstr ""
+
+#: ../isd-comment-features.php:248
+msgid "Post comments via ajax"
+msgstr ""
+
+#: ../isd-comment-features.php:252
+msgid "If checked the comments will be posted using ajax."
+msgstr ""
+
+#: ../isd-comment-features.php:255
+msgid "Notify users via email"
+msgstr ""
+
+#: ../isd-comment-features.php:259
+msgid "If checked, users will have the option to be notified via email whenever a reply to their comment is posted."
+msgstr ""
+
+#: ../isd-comment-features.php:262
+msgid "Validate comment form with javascript"
+msgstr ""
+
+#: ../isd-comment-features.php:266
+msgid "If checked, the comment for will be validated before submition."
+msgstr ""
+
+#: ../isd-comment-features.php:270
+msgid "Notification email options"
+msgstr ""
+
+#: ../isd-comment-features.php:273
+msgid "Sender email address"
+msgstr ""
+
+#: ../isd-comment-features.php:276
+msgid "The email address to use on the notification email."
+msgstr ""
+
+#: ../isd-comment-features.php:280
+msgid "Subject"
+msgstr ""
+
+#: ../isd-comment-features.php:283
+msgid "The subject used on the notification email."
+msgstr ""
+
+#: ../isd-comment-features.php:287
+msgid "Message"
+msgstr ""
+
+#: ../isd-comment-features.php:291
+msgid "The following tags can be used on the subject and message:"
+msgstr ""
+
+#: ../isd-comment-features.php:296
+msgid "Validation options"
+msgstr ""
+
+#: ../isd-comment-features.php:299
+msgid "Name"
+msgstr ""
+
+#: ../isd-comment-features.php:304
+msgid "Author field must contain more then 3 characters."
+msgstr ""
+
+#: ../isd-comment-features.php:307
+#: ../isd-comment-features.php:326
+#: ../isd-comment-features.php:362
+msgid "This field is always required."
+msgstr ""
+
+#: ../isd-comment-features.php:310
+#: ../isd-comment-features.php:313
+#: ../isd-comment-features.php:329
+#: ../isd-comment-features.php:332
+#: ../isd-comment-features.php:352
+#: ../isd-comment-features.php:355
+#: ../isd-comment-features.php:365
+msgid "Error message"
+msgstr ""
+
+#: ../isd-comment-features.php:318
+msgid "Email"
+msgstr ""
+
+#: ../isd-comment-features.php:323
+msgid "Email field must contain a valid email address."
+msgstr ""
+
+#: ../isd-comment-features.php:337
+msgid "Website"
+msgstr ""
+
+#: ../isd-comment-features.php:342
+msgid "Website field must contain a valid url."
+msgstr ""
+
+#: ../isd-comment-features.php:348
+msgid "This field is required."
+msgstr ""
+
+#: ../isd-comment-features.php:360
+msgid "Comment"
+msgstr ""
+
+#: ../isd-comment-features.php:370
+msgid "Error placement"
+msgstr ""
+
+#: ../isd-comment-features.php:375
+msgid "If checked, the error messages will be shown on top of the comment form. If not, they will show below each field."
+msgstr ""
+
+#: ../isd-comment-features.php:381
+msgid "Reset to defaults"
+msgstr ""
+
+#: ../isd-comment-features.php:385
+msgid "Erase Options"
+msgstr ""
+
+#: ../isd-comment-features.php:386
+msgid "Delete all saved options. This will reset all options to their default values."
+msgstr ""
+
+#: ../isd-comment-features.php:396
+msgid "Cascading Style Sheet"
+msgstr ""
+
+#: ../isd-comment-features.php:544
+msgid "Notify me by email if i get a reply"
+msgstr ""
+
+#~ msgid "INVALID"
+#~ msgstr "Error: Invalid data"
+
+#~ msgid "INTERNAL_ERROR"
+#~ msgstr "Internal error occurred"
+
+#~ msgid "NOTHING_TO_DO"
+#~ msgstr "No operation done"
+
+#~ msgid "LIST_MISSING"
+#~ msgstr "The List ID is missing"
+
+#~ msgid "LIST_NOT_FOUND"
+#~ msgstr "The List ID was not found"
+
+#~ msgid "CANNOT_ADD_MORE_SUBSCRIBERS"
+#~ msgstr "Cannot add more subscribers"
+
+#~ msgid "NO_DATA_TO_INSERT"
+#~ msgstr "No data to insert"
+
+#~ msgid "EMAIL_ALREADY_EXISTS"
+#~ msgstr "Email already exists"
+
+#~ msgid "EMAIL_ADDRESS_INVALID"
+#~ msgstr "Invalid email address"
+
+#~ msgid "EMAIL_ADDRESS_INVALID_MX_ERROR"
+#~ msgstr "Invalid email address"
+
+#~ msgid "EMAIL_ADDRESS_INVALID_DOESNT_EXIST"
+#~ msgstr "Invalid email address"
+
+#~ msgid "CELLPHONE_ALREADY_EXISTS"
+#~ msgstr "Cellphone already exists"
+
+#~ msgid "FAX_ALREADY_EXISTS"
+#~ msgstr "Fax already exists"
+
+#~ msgid "TELEPHONE_ALREADY_EXISTS"
+#~ msgstr "Telephone already exists"
+
+#~ msgid "FIRST_NAME_ALREADY_EXISTS"
+#~ msgstr "First name already exists"
+
+#~ msgid "LAST_NAME_ALREADY_EXISTS"
+#~ msgstr "Last name already exists"
+
+#~ msgid "TAX_ID_NUMBER_ALREADY_EXISTS"
+#~ msgstr "Tax ID Number already exists"
+
+#~ msgid "ADDRESS_ALREADY_EXISTS"
+#~ msgstr "Address already exists"
+
+#~ msgid "ZIP_CODE_ALREADY_EXISTS"
+#~ msgstr "Zip code already exists"
+
+#~ msgid "CITY_ALREADY_EXISTS"
+#~ msgstr "City already exists"
+
+#~ msgid "DISCRICT_ALREADY_EXISTS"
+#~ msgstr "District already exists"
+
+#~ msgid "STATE_ALREADY_EXISTS"
+#~ msgstr "State already exists"
+
+#~ msgid "COUNTRY_ALREADY_EXISTS"
+#~ msgstr "Country already exists"
+
+#~ msgid "AGE_ALREADY_EXISTS"
+#~ msgstr "Age already exists"
+
+#~ msgid "GENDER_ALREADY_EXISTS"
+#~ msgstr "Gender already exists"
+
+#~ msgid "ID_CARD_NUMBER_ALREADY_EXISTS"
+#~ msgstr "ID Card Number already exists"
+
+#~ msgid "COMPANY_ALREADY_EXISTS"
+#~ msgstr "Company already exists"
+
+#~ msgid "BIRTH_DATE_ALREADY_EXISTS"
+#~ msgstr "Birth date already exists"
+
+#~ msgid "SUBSCRIBER_MISSING"
+#~ msgstr "Subscriber is missing"
+
+#~ msgid "SUBSCRIBER_NOT_FOUND"
+#~ msgstr "Subscriber was not found"
+
+#~ msgid "CAMPAIGN_NOT_VALID"
+#~ msgstr "Campaign is not valid"
+
+#~ msgid "INVALID_FROM"
+#~ msgstr "Invalid Sender email/name"
+
+#~ msgid "NO_SUBJECT"
+#~ msgstr "No subject was found"
+
+#~ msgid "NO_MESSAGE"
+#~ msgstr "No message was found"
+
+#~ msgid "INVALID_FILE"
+#~ msgstr "Invalid File"
+
+#~ msgid "NO_ZIP_FILE"
+#~ msgstr "No Zip file was found"
+
+#~ msgid "FILE_TOO_LARGE"
+#~ msgstr "File is too large"
+
+#~ msgid "INVALID_URL"
+#~ msgstr "Invalid URL"

@@ -1,0 +1,4 @@
+h2.tab-nav        { border-bottom:1px solid #ccc; margin-bottom:0; padding-bottom:0; }
+.tab-container    { padding:20px 10px 0 10px; border:1px solid #ccc; border-top:none; }
+.tab-container hr { margin:1em 0.5em; border:none; border-top:1px solid #ccc; }
+
